@@ -2,6 +2,7 @@
 layout: default
 title: Kebijakan Privasi
 permalink: /privasi/
+noindex: true
 ---
 
 # Kebijakan Privasi — Satset CPNS
